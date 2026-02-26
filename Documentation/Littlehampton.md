@@ -23,6 +23,8 @@ The standard off peak service pattern is as follows:
 - 2tph London Victoria to Bognor Regis
 - 2tph London Victoria to Littlehampton
 
+*Please Note: This timetable requires v2.15.0 or later of RailOS to operate, as it makes use of the dsc timetable command.*
+
 ## Operational Tips
 
 - Platform allocations have been provided for Littlehampton. It's advised to use these where possible, even if that means trains sharing platforms.
