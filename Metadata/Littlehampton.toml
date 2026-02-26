@@ -1,0 +1,15 @@
+rly_file = "Littlehampton.rly"
+ttb_files = [ "Littlehampton_2026-02-25.ttb",]
+img_files = [ "Littlehampton.bmp",]
+doc_files = [ "Littlehampton.md",]
+release_date = "2026-02-22"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2026
+display_name = "Littlehampton"
+name = "Littlehampton"
+signal_position = "left"
+author = "Oxalin1"
+contributors = []
